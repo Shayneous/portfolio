@@ -23,7 +23,7 @@ const Works = () => {
                     </div>
                 </a>
 
-                <a href="https://mysterious-badlands-54283.herokuapp.com/">
+                <a href="https://stephanreilly.itch.io/privacy-protectors">
                     <div className="cards">
                     <img src={ui} alt="" />
                     <button>Privacy Protectors</button>
