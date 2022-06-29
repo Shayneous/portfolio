@@ -10,12 +10,11 @@ ReactDOM.render(
     <Router>
         <Routes>
           <Route path='/' element={<App/>}/>
-          <Route path='/section' element={<Section/>}/>
-          <Route path='/works' element={<Works/>}/>
-          <Route path='/main' element={<Main/>}/>
+          <Route path='/Section' element={<Section/>}/>
+          <Route path='/Works' element={<Works/>}/>
+          <Route path='/Main' element={<Main/>}/>
         </Routes>
     </Router>,
   document.getElementById('root')
 );
 
-<BrowserRouter basename={process.env.PUBLIC_URL}></BrowserRouter>
