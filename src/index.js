@@ -17,3 +17,5 @@ ReactDOM.render(
     </Router>,
   document.getElementById('root')
 );
+
+<BrowserRouter   basename="/portfolio" ></BrowserRouter>
