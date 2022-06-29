@@ -18,3 +18,4 @@ ReactDOM.render(
   document.getElementById('root')
 );
 
+<BrowserRouter basename={process.env.PUBLIC_URL}></BrowserRouter>
