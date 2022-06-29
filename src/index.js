@@ -18,4 +18,3 @@ ReactDOM.render(
   document.getElementById('root')
 );
 
-<BrowserRouter   basename="/portfolio" ></BrowserRouter>
