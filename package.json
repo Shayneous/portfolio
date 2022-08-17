@@ -1,7 +1,6 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
-  "homepage": "https:/shaynemganness.com",
   "private": false,
   "dependencies": {
     "@material-ui/icons": "^4.11.3",
