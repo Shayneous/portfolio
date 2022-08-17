@@ -2,9 +2,9 @@ import { ArrowBack } from '@material-ui/icons'
 import React from 'react'
 import { Link } from 'react-router-dom'
 import react from './assets/react.jpg'
-import ui from './assets/ui.gif'
+import ui from './assets/ui.JPG'
 import wd from './assets/wd.jpg'
-import wd2 from './assets/wd2.png'
+import wd2 from './assets/wd2.jpg'
 import './styles/Works.scss'
 
 const Works = () => {

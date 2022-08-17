@@ -36,7 +36,8 @@ const Main = () => {
 
 
                     <div className="buttons">
-                        <button>My Resume</button>
+                    <a href="https://drive.google.com/file/d/1kA6IyPKrWMduDdrj5Zt45vdp0zF2wH7W/view">
+                        <button>My Resume</button></a>
                     </div>
 
                     </div>
