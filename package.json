@@ -1,6 +1,6 @@
 {
   "name": "portfolio",
-  "version": "16.13.1",
+  "version": "0.1.0",
   "private": false,
   "dependencies": {
     "@material-ui/icons": "^4.11.3",
@@ -10,7 +10,7 @@
     "node-sass": "^7.0.1",
     "patch-package": "^6.4.7",
     "postinstall-postinstall": "^2.1.0",
-    "react": "^18.1.0",
+    "react": "^16.13.1",
     "react-dom": "^18.1.0",
     "react-router-dom": "^6.3.0",
     "react-scripts": "^5.0.1",
